@@ -1,0 +1,5 @@
+This is version 1 of my project
+Lets move on to the second version
+changed by bikram
+This file is further changed due to tutorial 8
+changed to know about git diff command
